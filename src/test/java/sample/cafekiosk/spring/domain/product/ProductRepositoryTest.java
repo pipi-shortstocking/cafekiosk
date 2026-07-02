@@ -100,4 +100,5 @@ class ProductRepositoryTest {
                         tuple("002", "카페라떼", HOLD)
                 );
     }
+
 }
